@@ -1,0 +1,9 @@
+﻿  main.cpp
+  pokemon.cpp
+D:\Projects\Pokemony\pokemon.cpp(46,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  przeciwnik.cpp
+D:\Projects\Pokemony\przeciwnik\przeciwnik.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects\Pokemony\przeciwnik\przeciwnik.cpp(151,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+D:\Projects\Pokemony\przeciwnik\przeciwnik.cpp(242): warning C4715: 'Przeciwnik::atak': not all control paths return a value
+  Pokemony.vcxproj -> D:\Projects\Pokemony\x64\Debug\Pokemony.exe

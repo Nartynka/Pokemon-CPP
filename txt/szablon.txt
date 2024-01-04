@@ -1,0 +1,18 @@
+SZABLON WEDŁUG KTÓREGO W PRZYPADKU NIE ZNALEZIENIA PLIKU "pokemon.txt" 
+TRZEBA SAMEMU UTWORZYĆ TAKI PLIK
+
+1. Utwórz nowy plik tekstowy o nazwie "pokemon.txt"
+2. Otwórz go w i pierwszej lini napisz false
+3. zapisz
+
+
+JAK ZAPISYWANE SĄ DANE W PLIKU "pokemon.txt"
+
+1. LINIA - czy pokemon został kiedyś przypisany (true/false)
+2. LINIA - nazwa pokemona (BULBASAUR/SQUIRTLE/CHARMANDER)
+3. LINIA - rodzaj (TRAWIASTY/WODNY/OGNISTY)
+4. LINIA - wylosowane CP min. 10
+5. LINIA - wylosowane IV (0-100)
+6. LINIA - wylosowane hp
+7. LINIA - numer pokemona (1-3)
+8. LINIA - ewolucja (0 - brak ewoluci, 1 - pierwsza ewolucja, 2 - druga (ostatnia) ewolucja)

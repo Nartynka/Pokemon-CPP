@@ -1,0 +1,9 @@
+true
+CHARMANDER
+OGNISTY
+339
+98
+72
+3
+74
+0
